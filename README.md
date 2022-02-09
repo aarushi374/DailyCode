@@ -21,3 +21,14 @@ Check if Linked List is Palindrome<br>
 Get minimum element from stack-O(1)<br>
 Rotate a Linked List<br>
 Intersection Point in Y Shapped Linked Lists<br> 
+# Day 3: 9th Feb 2022
+Delete without head pointer<br>
+Add two numbers represented by linked lists<br>
+Remove duplicate element from sorted Linked List<br>
+Reverse a Linked List in groups of given size.<br>
+Find triplets with zero sum<br>
+Linked List Insertion<br>
+Delete a Node in Single Linked List<br>
+Merge two sorted linked lists<br>
+Queue using two Stacks<br>
+Circular tour<br>
