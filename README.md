@@ -45,9 +45,15 @@ Tranverse binary tree in spiral form<br>
 Find maximum diameter of binary tree<br>
 Least common ancestors of two nodes in binary tree<br>
 # Day 6: 12th Feb 2022
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Delete Middle of Linked List<br>
+Binary Tree height<br>
+Print all nodes that don't have sibling<br>
+Stack using two queues<br>
+Remove duplicates from an unsorted linked list<br>
+Find length of Loop in Linked List<br>
+Implement strstr<br>
+Right View of Binary Tree<br>
+Given a linked list of 0s, 1s and 2s, sort it<br>
+Implement Stack using Linked List<br>
+Implement stack using array<br>
+Sort an array of 0s, 1s and 2s<br>
