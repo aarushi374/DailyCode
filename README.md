@@ -38,6 +38,16 @@ Max Node in Binary Tree<br>
 Print Left View in Binary Tree<br>
 Child Sum in Binary Tree<br>
 # Day 5: 11th Feb 2022
+Check wheather binary tree is balanced or not<br>
+Find maximum width of binary tree<br>
+Construct binary tree from preorder and inorder array<br>
+Tranverse binary tree in spiral form<br>
+Find maximum diameter of binary tree<br>
+Least common ancestors of two nodes in binary tree<br>
+# Day 6: 12th Feb 2022
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
