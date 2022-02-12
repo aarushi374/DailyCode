@@ -32,3 +32,12 @@ Delete a Node in Single Linked List<br>
 Merge two sorted linked lists<br>
 Queue using two Stacks<br>
 Circular tour<br>
+# Day 4: 10th Feb 2022
+Binary Tree Size<br>
+Max Node in Binary Tree<br>
+Print Left View in Binary Tree<br>
+Child Sum in Binary Tree<br>
+# Day 5: 11th Feb 2022
+<br>
+<br>
+<br>
