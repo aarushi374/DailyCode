@@ -57,3 +57,14 @@ Given a linked list of 0s, 1s and 2s, sort it<br>
 Implement Stack using Linked List<br>
 Implement stack using array<br>
 Sort an array of 0s, 1s and 2s<br>
+# Day 7: 13th Feb 2022
+Find number of nodes in complete binary tree<br>
+Serialization of Binary Tree<br>
+Deserialization on Binary Tree<br>
+Iterative Inorder traversal<br>
+Iterative Preorder traversal<br>
+Delete Node in Binary Search Tree<br>
+Find Floor in Binary Search Tree<br>
+Find Ceil in Binary Search Tree<br>
+Root to leaf path sum<br>
+Connect Nodes at Same Level <br>
