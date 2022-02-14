@@ -42,7 +42,7 @@ Check wheather binary tree is balanced or not<br>
 Find maximum width of binary tree<br>
 Construct binary tree from preorder and inorder array<br>
 Tranverse binary tree in spiral form<br>
-Find maximum diameter of binary tree<br>
+Find diameter of binary tree<br>
 Least common ancestors of two nodes in binary tree<br>
 # Day 6: 12th Feb 2022
 Delete Middle of Linked List<br>
@@ -68,3 +68,14 @@ Find Floor in Binary Search Tree<br>
 Find Ceil in Binary Search Tree<br>
 Root to leaf path sum<br>
 Connect Nodes at Same Level <br>
+# Day 8: 14th Feb 2022
+Bottom View of Binary Tree<br>
+Find left Ceil<br>
+Check if Binary Tree is BST <br>
+Swap elements to make binary tree BST<br>
+Vertical Sum in Binary Tree<br>
+Top View of Binary Tree<br>
+Reverse Level Order Traversal<br>
+Vertical Traversal of Binary Tree<br>
+Determine if Two Trees are Identical<br>
+Sort a stack<br>
