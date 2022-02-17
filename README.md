@@ -79,3 +79,14 @@ Reverse Level Order Traversal<br>
 Vertical Traversal of Binary Tree<br>
 Determine if Two Trees are Identical<br>
 Sort a stack<br>
+# Day 9:15th Feb 2022
+Binary Heap Operations<br>
+# Day 10:16th Feb 2022
+Merge k Sorted Arrays<br>
+Merge K sorted linked lists<br>
+Heap Sort<br>
+Mirror Tree<br>
+Check If Circular Linked List<br>
+Insert in a Sorted List<br>
+Insert a node in a BST<br>
+
