@@ -95,8 +95,22 @@ Graph representation using Adjancency Matrix<br>
 Breath First Traversal<br>
 Depth First Traversal<br>
 # Day 12: 18th Feb 2022 
-<!---Travelling-->
+<---Travelling-->
 # Day 13: 19th Feb 2022 
-<!--Travelling-->
+<--Travelling-->
 # Day 14: 20th Feb 2022
- 
+Detect cycle in undirected graph<br>
+Detect cycle in directed graph<br>
+Topological Sorting <br>
+Shortest path in DAG<br>
+Prims Algorithm<br>
+Bellman Ford algorithm<br>
+# Day 15: 21st Feb 2022
+Count pairs with given sum<br>
+kth smallest element<br>
+Add 1 to a number represented as linked list<br>
+Next Greater Element<br>
+Minimum distance between two numbers<br>
+Frequencies of Limited Range Array Elements<br>
+Row with max 1s<br>
+Palindrome String<br>
