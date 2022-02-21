@@ -90,15 +90,13 @@ Check If Circular Linked List<br>
 Insert in a Sorted List<br>
 Insert a node in a BST<br>
 # Day 11: 17th Feb 2022
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-# Day12: 18th Feb 2022
-
+Graph representation using Adjancency List<br>
+Graph representation using Adjancency Matrix<br>
+Breath First Traversal<br>
+Depth First Traversal<br>
+# Day 12: 18th Feb 2022 
+<!---Travelling-->
+# Day 13: 19th Feb 2022 
+<!--Travelling-->
+# Day 14: 20th Feb 2022
+ 
