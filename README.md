@@ -114,3 +114,14 @@ Minimum distance between two numbers<br>
 Frequencies of Limited Range Array Elements<br>
 Row with max 1s<br>
 Palindrome String<br>
+# Day 16: 22nd Feb 2022
+Implement Queue using array<br>
+Intersection of two arrays<br>
+Non Repeating Character<br>
+Nth Fibonacci Number<br>
+Check for Balanced Tree<br>
+Longest consecutive subsequence<br>
+Triplet Sum in Array <br>
+Spirally traversing a matrix<br>
+Count Leaves in Binary Tree<br>
+
