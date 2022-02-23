@@ -124,4 +124,15 @@ Longest consecutive subsequence<br>
 Triplet Sum in Array <br>
 Spirally traversing a matrix<br>
 Count Leaves in Binary Tree<br>
+# Day 17: 23rd Feb 2022
+Product array puzzle<br>
+Minimum element in BST<br>
+First Repeating Element<br>
+Maximum of all subarrays of size k <br>
+K distance from root<br>
+Implement Queue using Linked List<br>
+Kth largest element in BST<br>
+k-th smallest element in BST <br>
+Delete nodes having greater value on right<br>
+Special Stack <br>
 
