@@ -135,4 +135,9 @@ Kth largest element in BST<br>
 k-th smallest element in BST <br>
 Delete nodes having greater value on right<br>
 Special Stack <br>
-
+# Day 18: 24th Feb 2022
+Minimum Cost of ropes<br>
+Introduction to dynamic programming<br>
+Binary Tree to DLL<br>
+Isomorphic Strings<br>
+Find Pair Given Difference<br>
