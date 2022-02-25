@@ -141,3 +141,12 @@ Introduction to dynamic programming<br>
 Binary Tree to DLL<br>
 Isomorphic Strings<br>
 Find Pair Given Difference<br>
+# Day 19: 25th Feb 2022
+Parenthesis Checker<br>
+0 - 1 Knapsack Problem<br>
+Validate an IP Address<br>
+Topological sort<br>
+Longest Common Subsequence<br>
+Count the triplets<br>
+Edit Distance<br>
+Longest length of Palindrome in a String<br>
