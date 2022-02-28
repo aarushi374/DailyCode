@@ -150,3 +150,14 @@ Longest Common Subsequence<br>
 Count the triplets<br>
 Edit Distance<br>
 Longest length of Palindrome in a String<br>
+# Day 20: 26th Feb 2022
+Reverse First K elements of Queue <br>
+Sorted insert for circular linked list<br>
+Symmetric Tree<br>
+Stock span problem<br>
+K-th element of two sorted Arrays<br>
+# Day 21: 27th Feb 2022
+Count the number of possible triangles<br>
+Permutations of a given string<br>
+Array Subset of another array<br>
+k largest elements<br>
