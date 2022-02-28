@@ -161,3 +161,11 @@ Count the number of possible triangles<br>
 Permutations of a given string<br>
 Array Subset of another array<br>
 k largest elements<br>
+Longest Common Prefix in an Array <br>
+# Day 22: 28th Feb 2022
+Alternate positive and negative numbers<br>
+Find a pair with given target in BST<br>
+Remove Duplicates<br>
+Split a Circular Linked List into two halves<br>
+Max sum path in two arrays<br>
+Form a number divisible by 3 using array digits<br>
