@@ -169,3 +169,10 @@ Remove Duplicates<br>
 Split a Circular Linked List into two halves<br>
 Max sum path in two arrays<br>
 Form a number divisible by 3 using array digits<br>
+# Day 23: 1st May 2022
+Print Anagrams Together<br>
+Multiply two linked lists<br>
+Max Level Sum in Binary Tree<br>
+Minimum indexed character<br>
+Longest Sub-Array with Sum K<br>
+
