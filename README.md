@@ -188,5 +188,3 @@ Longest Increasing Subsequence <br>
 Rearrange Array Alternately<br>
 Fractional Knapsack<br>
 Job Sequencing Problem<br>
-
-# Day 25: 3rd May 2022
