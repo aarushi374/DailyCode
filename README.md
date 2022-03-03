@@ -175,4 +175,18 @@ Multiply two linked lists<br>
 Max Level Sum in Binary Tree<br>
 Minimum indexed character<br>
 Longest Sub-Array with Sum K<br>
+# Day 24: 2nd May 2022
+Search is sorted rotated array<br>
+Subarray with 0 sum<br>
+Largest subarray with 0 sum<br>
+First negative integer in every window of size k<br>
+Number of 1 Bits<br>
+# Day 25: 3rd May 2022
+Wave Array <br>
+N meetings in one room<br>
+Longest Increasing Subsequence <br>
+Rearrange Array Alternately<br>
+Fractional Knapsack<br>
+Job Sequencing Problem<br>
 
+# Day 25: 3rd May 2022
