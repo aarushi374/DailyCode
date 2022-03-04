@@ -188,3 +188,10 @@ Longest Increasing Subsequence <br>
 Rearrange Array Alternately<br>
 Fractional Knapsack<br>
 Job Sequencing Problem<br>
+# Day 26: 4th May 2022
+Coin Change<br>
+ZigZag Tree Traversal <br>
+Count Pairs whose sum is equal to X<br>
+Key Pair<br>
+Chocolate Distribution Problem<br>
+Segregate 0s and 1s<br>
