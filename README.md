@@ -195,3 +195,10 @@ Count Pairs whose sum is equal to X<br>
 Key Pair<br>
 Chocolate Distribution Problem<br>
 Segregate 0s and 1s<br>
+# Day 27: 5th May 2022
+Find Missing And Repeating<br>
+Reverse a Doubly Linked List<br>
+Leaf at same level<br>
+Delete N nodes after M nodes of a linked list<br>
+Roman Number to Integer<br>
+Plus One<br>
