@@ -202,3 +202,10 @@ Leaf at same level<br>
 Delete N nodes after M nodes of a linked list<br>
 Roman Number to Integer<br>
 Plus One<br>
+# Day 28: 6th May 2022
+Longest Repeating Subsequence<br>
+Maximum sum increasing subsequence <br>
+Activity Selection<br>
+Counting elements in two arrays<br>
+<br>
+<br>
