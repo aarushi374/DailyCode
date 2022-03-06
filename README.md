@@ -207,5 +207,5 @@ Longest Repeating Subsequence<br>
 Maximum sum increasing subsequence <br>
 Activity Selection<br>
 Counting elements in two arrays<br>
-<br>
-<br>
+Search in a Rotated Array<br>
+Count triplets with sum smaller than X<br>
