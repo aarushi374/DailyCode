@@ -209,3 +209,15 @@ Activity Selection<br>
 Counting elements in two arrays<br>
 Search in a Rotated Array<br>
 Count triplets with sum smaller than X<br>
+# Day 29: 7th May 2022
+Maximize The Cut Segments<br>
+<br>
+<br>
+<br>
+# Day 30: 8th May 2022
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
