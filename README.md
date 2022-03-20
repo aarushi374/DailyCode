@@ -211,13 +211,46 @@ Search in a Rotated Array<br>
 Count triplets with sum smaller than X<br>
 # Day 29: 7th May 2022
 Maximize The Cut Segments<br>
-<br>
-<br>
-<br>
+Subarray with given sum<br>
+Kadane's Algorithm<br>
+Missing number in array<br>
 # Day 30: 8th May 2022
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Kth smallest element<br>
+Find duplicates in an array<br>
+Minimum Platforms<br>
+# Day 31: 9th May 2022
+<--INTERVIEW-->
+# Day 30: 10th May 2022
+Count distinct elements in every window<br>
+Given a linked list of 0s, 1s and 2s, sort it.<br>
+Check if string is rotated by two places<br>
+# Day 31: 11th May 2022
+<--TRAVELLING-->
+# Day 32: 12th May 2022
+<--TRAVELLING-->
+# Day 33: 13th May 2022
+Stickler Thief<br>
+Subset Sum Problem<br>
+Count number of hops<br>
+# Day 34: 14th May 2022
+Count ways to reach the n'th stair<br>
+Floor in a Sorted Array<br>
+# Day 35: 15th May 2022
+Replace all 0's with 5<br>
+Count the Zeros<br>
+# Day 36: 16th May 2022
+Arithmetic Number<br>
+Maximum Width of Tree<br>
+Rearrange a linked list<br>
+# Day 37: 17th May 2022
+Number of Coins<br>
+Minimum Depth of a Binary Tree<br>
+Zero Sum Subarrays<br>
+# Day 38: 18th May 2022
+Bitonic Point<br>
+Number of occurrence<br>
+Perfect Sum Problem<br>
+# Day 39: 19th May 2022
+<--TRAVELLING-->
+# Day 40: 20th May 2022
+<--TRAVELLING-->
