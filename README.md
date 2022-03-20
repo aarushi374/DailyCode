@@ -253,4 +253,6 @@ Perfect Sum Problem<br>
 # Day 39: 19th May 2022
 <--TRAVELLING-->
 # Day 40: 20th May 2022
-<--TRAVELLING-->
+Majority Element<br>
+Sorting Elements of an Array by Frequency<br>
+Nuts and Bolts Problem <br>
