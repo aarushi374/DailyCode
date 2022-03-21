@@ -256,3 +256,7 @@ Perfect Sum Problem<br>
 Majority Element<br>
 Sorting Elements of an Array by Frequency<br>
 Nuts and Bolts Problem <br>
+# Day 41: 21st May 2022
+Two Mirror Trees<br>
+Count ways to N'th Stair(Order does not matter)<br>
+Add all greater values to every node in a BST<br>
