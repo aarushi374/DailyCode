@@ -260,3 +260,7 @@ Nuts and Bolts Problem <br>
 Two Mirror Trees<br>
 Count ways to N'th Stair(Order does not matter)<br>
 Add all greater values to every node in a BST<br>
+# Day 42: 22nd May 2022
+Expression Tree<br>
+Sort an array according to the other<br>
+Shortest Common Supersequence<br>
