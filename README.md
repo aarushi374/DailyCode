@@ -264,3 +264,15 @@ Add all greater values to every node in a BST<br>
 Expression Tree<br>
 Sort an array according to the other<br>
 Shortest Common Supersequence<br>
+# Day 43: 23rd May 2022
+Winner of an election <br>
+Decimal Equivalent of Binary Linked List<br>
+Union of Two Linked Lists<br>
+# Day 44: 24th May 2022
+<br>
+<br>
+<br>
+# Day 45: 25th May 2022
+<br>
+<br>
+<br>
