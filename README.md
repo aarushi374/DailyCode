@@ -275,9 +275,16 @@ Largest number with given sum<br>
 # Day 45: 25th May 2022
 Merge 2 sorted linked list in reverse order<br>
 Move all zeroes to end of array<br>
-<br>
+Trailing zeroes in factorial<br>
 # Day 46: 26th May 2022
+Container With Most Water<br>
+Facing the sun<br>
+Trapping Rain Water<br>
 # Day 47: 27th May 2022
+Vertical sum<br>
+<br>
+<br>
 # Day 48: 28th May 2022
 # Day 49: 29th May 2022
 # Day 50: 30th May 2022
+# Day 51: 31st May 2022
