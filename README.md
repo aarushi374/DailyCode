@@ -282,8 +282,8 @@ Facing the sun<br>
 Trapping Rain Water<br>
 # Day 47: 27th May 2022
 Vertical sum<br>
-<br>
-<br>
+Median of BST<br>
+Check whether K-th bit is set or not <br>
 # Day 48: 28th May 2022
 # Day 49: 29th May 2022
 # Day 50: 30th May 2022
