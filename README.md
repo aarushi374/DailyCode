@@ -286,8 +286,17 @@ Median of BST<br>
 Check whether K-th bit is set or not <br>
 # Day 48: 28th May 2022
 Sum of two elements with sum nearest to zero<br>
-<br>
-<br>
+Count the Reversals <br>
+Second most repeated string in a sequence <br>
 # Day 49: 29th May 2022
+Find the element that appears once<br>
+Minimum indexed character<br>
+Remove common characters and concatenate<br>
 # Day 50: 30th May 2022
+Level of a Node in Binary Tree<br>
+Absolute List Sorting <br>
+<br>
 # Day 51: 31st May 2022
+# Day 52: 1st April 2022
+# Day 53: 2nd April 2022
+# Day 54: 3rd April 2022
