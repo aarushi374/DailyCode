@@ -295,8 +295,15 @@ Remove common characters and concatenate<br>
 # Day 50: 30th May 2022
 Level of a Node in Binary Tree<br>
 Absolute List Sorting <br>
-<br>
+Top K Frequent Elements in Array <br>
 # Day 51: 31st May 2022
+Positive Negative Pair<br>
+Longest subsequence-1<br>
+Consecutive 1's not allowed<br>
 # Day 52: 1st April 2022
+Maximum Node Level<br>
+Find missing in second array <br>
+<br>
 # Day 53: 2nd April 2022
 # Day 54: 3rd April 2022
+# Day 55: 4th April 2022
