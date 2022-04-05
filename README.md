@@ -303,7 +303,23 @@ Consecutive 1's not allowed<br>
 # Day 52: 1st April 2022
 Maximum Node Level<br>
 Find missing in second array <br>
-<br>
+Match specific pattern <br>
 # Day 53: 2nd April 2022
+Find Nth root of M<br>
+Left most and right most index <br>
+<br>
 # Day 54: 3rd April 2022
+<br>
+<br>
+<br>
 # Day 55: 4th April 2022
+<br>
+<br>
+<br>
+# Day 56: 5th April 2022
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
