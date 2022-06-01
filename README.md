@@ -320,6 +320,9 @@ Left most and right most index <br>
 <br>
 <br>
 <br>
+# 6th April-12th May 2022
+<--END SEMESTERS-->
+# Day 57: 13th May 2022
 <br>
 <br>
 <br>
