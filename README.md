@@ -307,11 +307,11 @@ Match specific pattern <br>
 # Day 53: 2nd April 2022
 Find Nth root of M<br>
 Left most and right most index <br>
-<br>
+Maximum Occuring Character<br>
 # Day 54: 3rd April 2022
-<br>
-<br>
-<br>
+Pythagorean Triplet<br>
+Count More than n/k Occurences <br>
+Search in a matrix<br>
 # Day 55: 4th April 2022
 <br>
 <br>
