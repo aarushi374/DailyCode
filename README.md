@@ -314,8 +314,8 @@ Count More than n/k Occurences <br>
 Search in a matrix<br>
 # Day 55: 4th April 2022
 Polynomial Addition<br>
-<br>
-<br>
+Length of longest palindrome in linked list<br>
+Flattening a Linked List<br>
 # Day 56: 5th April 2022
 <br>
 <br>
