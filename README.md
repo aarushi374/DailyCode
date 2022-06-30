@@ -318,7 +318,7 @@ Length of longest palindrome in linked list<br>
 Flattening a Linked List<br>
 # Day 56: 5th April 2022
 Largest Number formed from an Array <br>
-<br>
+Linked list segregation odd and even<br>
 <br>
 # 6th April-12th May 2022
 <--END SEMESTERS-->
