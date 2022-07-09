@@ -319,10 +319,18 @@ Flattening a Linked List<br>
 # Day 56: 5th April 2022
 Largest Number formed from an Array <br>
 Linked list segregation odd and even<br>
-<br>
+Convert array into Zig-Zag fashion<br>
 # 6th April-12th May 2022
 <--END SEMESTERS-->
 # Day 57: 13th May 2022
+Swapping pairs make sum equal<br>
+Minimize the sum of product<br>
+Find all pairs with a given sum<br>
+# Day 58: 14th May 2022
+Sum of Middle Elements of two sorted arrays<br>
+Search in a row-column sorted Matrix<br>
+Uncommon characters<br>
+# Day 59: 15th May 2022
 <br>
 <br>
 <br>
