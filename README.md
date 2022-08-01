@@ -332,5 +332,13 @@ Search in a row-column sorted Matrix<br>
 Uncommon characters<br>
 # Day 59: 15th May 2022
 Convert a sentence into its equivalent mobile numeric keypad sequence <br>
+Longest Consecutive 1's<br>
+Merge Overlapped Intervals<br>
+# Day 60: 16th May 2022
+Rightmost different bit<br>
+Find first set bit<br>
+<br>
+# Day 61: 17th May 2022
+<br>
 <br>
 <br>
